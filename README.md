@@ -1,5 +1,5 @@
-漫画 venera-app / venera      
-https://github.com/venera-app/venera      
+漫画 venera-app / venera      https://github.com/venera-app/venera   
+   
 
 看番 Sle2p / AniCh       
 https://github.com/Sle2p/AniCh      
